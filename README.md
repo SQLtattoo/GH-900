@@ -4,9 +4,9 @@ Welcome to the **GH-900** workspace! This repository contains helpful resources 
 
 ## Contents
 
-- **Markdown-CheatSheet.md**: Quick reference for Markdown syntax and formatting.
-- **Search-CheatSheet.md**: Handy guide for search techniques and commands.
-- **Official GH-900 exercises.md**: The official curriculum together with set of exercises for the GH-900 course.
+- **[Markdown-CheatSheet.md](./Markdown-CheatSheet.md)**: Quick reference for Markdown syntax and formatting.
+- **[Search-CheatSheet.md](./Search-CheatSheet.md)**: Handy guide for search techniques and commands.
+- **[Official GH-900 exercises.md](./Official%20GH-900%20exercises.md)**: The official curriculum together with set of exercises for the GH-900 course.
 
 ## Usage
 
